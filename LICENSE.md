@@ -1,5 +1,5 @@
 # Suck My Dick License
-## Version 3.0
+## Version 2.0
 
 Permission is hereby granted, free of charge, to any motherfucker, shithead, or asshole obtaining a goddamn copy of this utterly useless software and associated shitty documentation files (the "Software"), to deal in the fucking Software without any goddamn restrictions, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following asshole conditions:
 
